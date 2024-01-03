@@ -1,26 +1,25 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: vinay.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I'm Vinay, a diligent and aspiring AI Engineer, ready to delve into the world of cutting edge AI research and it's corresponding engineering. Currently a final year grad student at <a href='cmu.edu'>Carnegie Mellon University</a>, graduating soon with a <a href='https://msaii.cs.cmu.edu/'>Masters in Artificial Intelligence and Innovation</a> and having had diverse experiences focusing on <b>Large Language Models</b>, <b>Retrieval Augmented Generation (RAG)</b>, <b>Multimodal Grounding</b>, <b>Multihop Multimodal Question Answering</b> and many others; I aim to solve complex real world problems through pioneering advances in AI and its related technologies.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+During my educational pursuits at CMU, I've honed skills in sophisticated Neural Network Architectures, Alignment for Multimodal LLMs, Computer Vision, and Natural Language Processing. I've accomplished a range of tasks including the creation of interactive AI interfaces, information retrieval systems, and visual recognition frameworks. Serving as a Teaching Assistant at Carnegie Mellon University, I've strengthened my abilities in both conveying complex concepts and steering team dynamics for group projects, equipping me to communicate professionally with my peers.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I thrive in innovative and collaborative environments; enriching the team's experience through my innovative and out of the box thinking idealogy. I continuously read up on new technologies that are backed up by credible publications to constantly augment myself.
+
+Thank you so much for visiting my website. Please connect with me through any of my social media handles at the bottom of this page!

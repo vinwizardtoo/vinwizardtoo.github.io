@@ -2,96 +2,113 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Vinay Premchandran Nair
     - name: Date of Birth
-      value: 14th March 1879
+      value: 29th May 2000
     - name: Languages
-      value: English, German
+      value: English, Hindi, Marathi, Malayalam, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Masters of Science in Artificial Intelligence and Innovation (MSAII)
+      institution: Carnegie Mellon University, Pittsburgh, PA, US.
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: <b>Courses Taken</b>
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - <a href = 'https://cmu-multicomp-lab.github.io/mmml-course/fall2023/'>Multimodal Machine Learning (11-777)</a>
+            - <a href = 'https://cmu-llms.org/'>Large Language Models (11-667)</a>
+            - <a href = 'https://deeplearning.cs.cmu.edu/F23/index.html'>Introduction to Deep Learning (11-785)</a>
+            - <a href = 'https://mlip-cmu.github.io/s2023/'>Machine Learning in Production (11-695)</a>
+          #add subdescriptions for each course if required
+    - title: Bachelors of Engineering in Information Technology (BE-IT)
+      institution: Pune Institute of Computer Technology (aff. with Univ. of Pune), Pune, MH, India. 
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
+        - title: <b>Courses Taken</b>
+          contents:
+            - Deep Learning
+            - Database Management Systems
+            - Theory of Computations
+            - Data Structures and Algorithms
+          #add subdescriptions for each course if required
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Machine Learning Engineer Intern
+      institution: Transatlantic Reinsurance Pvt. Ltd.
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+          - Spearheaded the development of a sophisticated in-house Large Language Model QA bot, assisting the risk assessment process for underwriters.
+          - Conducted extensive testing and evaluation of multiple open-source models, including Falcon 7B Instruct, MPT 7B, RedPajamas, and Llama 2, to determine the most suitable model for the project's requirements.
+          - Successfully deployed the final application using Llama 2 via HuggingFace, optimizing its performance and usability.
+          - Leveraged Langchain to augment risk-assessment related data-pipelines with specialized chains for Summarization, Conversational Retrieval, and Multiple Document retrieval, resulting in reduced inference time.
+          - Pioneered the implementation of a feedback-mechanism to enforce PEFT, facilitating the fine-tuning of the Llama 2 model to continuously improve the bot's performance and accuracy.
+
+    - title: Graduate Research Assistant
+      institution: Carnegie Mellon University, Pittsburgh, PA, US.
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Developed a Retrieval QA chatbot to assist survey respondents using GPT-4, Whisper and semantic search functionality.
+        - Incorporated prompt engineering to retrieve public information in real time to solve doubts that survey respondents have.
+        - Implemented efficient data collection and preprocessing, supporting diverse formats (PDFs, audio, text, web scraping) for optimized embeddings.
+        - Successfully deployed the chatbot on Google App Engine with comprehensive technical documentation for easy access and maintenance.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Machine Learning Engineer (Part-Time)
+      institution: Carlisle Architectural Materials, Pittsburgh, PA, US. 
+      year: 2023
+      description: 
+      - Developed a unique solution for mass customization and inventory management for a large scale construction company; a project initiative by the Corporate Startup Lab powered by the Swartz Center for Entrepreneurship.
+      - Generated insights that may save up to $60 million dollars annually on redundant logistics and outsourcing.
+      - Provided real time data insights through visualization tools such as Tableau.
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Analyst Intern
+      institution: Intangles Labs Pvt. Ltd., Pune, MH, India
+      year: 2021
       description:
+      - Developed a recommendation system at Intangles Labs to increase client engagement by analyzing customer data.
+      - Reduced data cleaning time by 30% by conducting data processing on multiple sources, including Integrated REST APIs, Excel, and Google Sheets.
+      - Utilized data visualization tools such as Matplotlib and Seaborn to create visual representations of customer engagement trends.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+#     - title: Associate Professor of Theoretical Physics
+#       institution: University of Zurich, Zurich, Switzerland
+#       year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Grounding for Multimodal LLMs
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Deals with aligning different modalities for augmenting agents to real world data.
+        - Similar Technologies --> <a href= "https://github.com/Vision-CAIR/MiniGPT-4">MiniGPT-4</a>
+    - title: Retrieval Augmented Generation
       items:
-        - Description 1.
-        - Description 2.
+        - Enriching Generated Text by providing additional context and information sourced from a large database of reference texts.
+        - Similar Technologies --> <a href = "https://github.com/Mintplex-Labs/anything-llm">AnythingLLMs</a>, <a href = "https://github.com/IntelLabs/fastRAG">fastRAG</a>
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Swimming, Playing Soccer
+    - <u>Instruments being learned:</u> Drums
+  
