@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🇺🇸 Started my Masters in Artificial Intelligence and Innovation at Carnegie Mellon Universitys
+🇺🇸 Started my Masters in Artificial Intelligence and Innovation at Carnegie Mellon University
