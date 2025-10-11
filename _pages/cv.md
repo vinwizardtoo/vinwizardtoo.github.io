@@ -4,7 +4,7 @@ permalink: /cv/
 title: Resume
 nav: true
 nav_order: 2
-cv_pdf: VinaysResumeOct.pdf
+cv_pdf: VinayResumeOct.pdf
 description: Here's an academic overview of myself! Feel free to check out my resume up here as well! 
 toc:
   sidebar: left
