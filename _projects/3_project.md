@@ -1,14 +1,14 @@
 ---
 layout: page
 title: An Interactive Conversational Agent to Aid Human Learning
-# description: a project that redirects to another website
+description: A conversational agent that adapts language lessons to the learner (CMU).
 img: assets/img/IDLPRoj.jpeg
 # redirect: https://unsplash.com
 importance: 3
 category: work
 ---
 
-In this project, a language learning conversational agent was created using advanced Natural Language Processing and Reinforcement Learning techniques to tailor dialogues that introduce new linguistic concepts based on the learner's current proficiency. The agent's proficiency assessment utilizes a transformer-based NLP model to analyze the learner's input and a Reinforcement Learning framework to optimize the introduction of new language elements. An extensive language learning ontology was developed to inform the agent's content strategy, ensuring contextually relevant and pedagogically structured interactions. The agent's dialogue generation is designed to incrementally challenge the learner, facilitating optimal retention and mastery of the new language.
+A conversational agent for language learning that adapts its dialogue to the learner's proficiency. A transformer model reads the learner's replies to estimate what they know, and a reinforcement learning scheduler decides when to introduce new words and grammar. A language-learning ontology we built keeps the new material relevant and in a sensible order, so each conversation challenges the learner a little more.
 
 | <a href = "https://github.com/deigant1998/IntroToDeepLearning11785Project">Code</a> | <a href = "https://drive.google.com/file/d/1yF-NP5HgoZ4kNJvTx1Hn4IhVzwpKOBWR/view">PDF</a> |
 

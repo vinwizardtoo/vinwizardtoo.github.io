@@ -8,10 +8,10 @@ first_name: Vinay
 last_name: Nair
 email: vinaynair@cmu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Vinay Nair, machine learning engineer building LLM agent and retrieval systems.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: Vinay Nair, machine learning engineer, LLM, agents, multi-agent systems, RAG, retrieval, Carnegie Mellon
 
 #Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
@@ -120,8 +120,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Vinay Nair # blog_name will be displayed in your blog page
+blog_description: notes on ML and agent systems
 permalink: /blog/:year/:title/
 
 # Pagination

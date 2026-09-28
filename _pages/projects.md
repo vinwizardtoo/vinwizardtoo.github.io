@@ -56,3 +56,12 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
+
+## Other work
+
+- GPT from scratch
+- Speech-to-text
+- Face classification
+- Movie recommender
+- Pest prediction
+- <a href="https://ieeexplore.ieee.org/abstract/document/9400227">Multi-labelled Ocular Disease Diagnosis Enforcing Transfer Learning</a> (eye-disease paper, CISS'21)
