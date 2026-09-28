@@ -26,7 +26,7 @@ schematic:
 
 <div class="project-meta">{% include project_tags.html project=page %}</div>
 
-<i>Senior ML Engineer, Jun 2025 – Mar 2026</i>
+<i>Senior Machine Learning Engineer (Forward Deployed), Jun 2025 – Mar 2026</i>
 
 {% schematic page interactive %}
 
