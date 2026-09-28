@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I'm Vinay, a Senior Machine Learning Engineer currently at <b>Con Edison</b>.
+Hello! I'm Vinay, a Senior Machine Learning Engineer (Forward Deployed) currently at <b>Con Edison</b>.
 
 I build LLM agent and retrieval systems that take repetitive, rule-based work off analysts' plates. That started with research during my <a href='https://msaii.cs.cmu.edu/'>Master's in Artificial Intelligence and Innovation</a> at <a href='https://www.cmu.edu'>Carnegie Mellon University</a> and has carried through to production systems in industry.
 
