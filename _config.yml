@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Vinay
 # middle_name: Premchandran
 last_name: Nair
-email: vinaynair@cmu.edu
+email: vinaynair2k@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Vinay Nair, machine learning engineer building LLM agent and retrieval systems.
 footer_text: >
@@ -103,8 +103,8 @@ discord_id: vinwizard # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
-contact_note: > #You can reach me at vinayn-at-andrew-dot-cmu-dot-edu
-  You can reach me at vinayn[at]andrew[dot]cmu[dot]edu!
+contact_note: >
+  You can reach me at vinaynair2k[at]gmail[dot]com!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
