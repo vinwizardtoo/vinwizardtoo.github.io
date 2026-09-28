@@ -1,6 +1,6 @@
 # vinwizardtoo.github.io
 
-Personal website of Vinay Nair, a machine learning engineer who builds LLM agent and retrieval systems. I currently work at Con Edison, and before that built agent systems at Apple Marcom (via Fractal), C3 AI and Capgemini after a Master's in AI and Innovation at Carnegie Mellon.
+Personal website of Vinay Nair, a machine learning engineer who builds LLM agent and retrieval systems. I currently work at Con Edison (via Fractal), and before that built agent systems at Apple Marcom (via Fractal), C3 AI and Capgemini after a Master's in AI and Innovation at Carnegie Mellon.
 
 Live site: https://vinwizardtoo.github.io
 
