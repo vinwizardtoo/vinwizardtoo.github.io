@@ -37,7 +37,8 @@
 - title: Experience
   type: time_table
   contents:
-    - institution: Con Edison
+    - title: Senior Machine Learning Engineer
+      institution: Con Edison
       year: 2026 - Now
 
     - title: Senior ML Engineer

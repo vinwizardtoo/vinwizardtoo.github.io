@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I'm Vinay. I currently work at <b>Con Edison</b>.
+Hello! I'm Vinay, a Senior Machine Learning Engineer at <b>Con Edison</b>.
 
 I got into building LLM systems during my <a href='https://msaii.cs.cmu.edu/'>Master's in Artificial Intelligence and Innovation</a> at <a href='https://www.cmu.edu'>Carnegie Mellon University</a>, where I worked on retrieval, multimodal question answering and conversational agents. My capstone with Bank of New York Mellon used a multi-agent framework and a knowledge-graph-backed RAG system to streamline a financial analyst's day-to-day work.
 

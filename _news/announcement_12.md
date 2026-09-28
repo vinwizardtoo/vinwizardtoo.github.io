@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-⚡ Joined Con Edison
+⚡ Joined Con Edison as a Senior Machine Learning Engineer
