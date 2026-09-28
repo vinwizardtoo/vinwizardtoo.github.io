@@ -83,9 +83,9 @@
         - Successfully deployed the chatbot on Google App Engine with comprehensive technical documentation for easy access and maintenance.
 
     - title: Machine Learning Engineer (Part-Time)
-      institution: Carlisle Architectural Materials, Pittsburgh, PA, US. 
+      institution: Carlisle Architectural Materials, Pittsburgh, PA, US.
       year: 2023
-      description: 
+      description:
       - Developed a unique solution for mass customization and inventory management for a large scale construction company; a project initiative by the Corporate Startup Lab powered by the Swartz Center for Entrepreneurship.
       - Generated insights that may save up to $60 million dollars annually on redundant logistics and outsourcing.
       - Provided real time data insights through visualization tools such as Tableau.
@@ -113,18 +113,18 @@
 #   type: time_table
 #   contents:
 #     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
+#       items:
+#         - Nobel Prize in Physics
 #         - Matteucci Medal
 #     - year: 2029
-#       items: 
+#       items:
 #         - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Grounding for Multimodal LLMs
-      items: 
+      items:
         - Deals with aligning different modalities for augmenting agents to real world data.
         - Similar Technologies --> <a href= "https://github.com/Vision-CAIR/MiniGPT-4">MiniGPT-4</a>
     - title: Retrieval Augmented Generation
@@ -137,4 +137,4 @@
   contents:
     - <u>Hobbies:</u> Swimming, Playing Soccer
     - <u>Instruments being learned:</u> Drums
-  
+
