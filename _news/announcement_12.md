@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-⚡ Joined Con Edison as a Senior Machine Learning Engineer
+⚡ Joined Con Edison (via Fractal) as a Senior Machine Learning Engineer (Forward Deployed)
