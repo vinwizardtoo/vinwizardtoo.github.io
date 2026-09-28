@@ -1,0 +1,1 @@
+document.querySelectorAll(".schematic-figure").forEach(e=>{const t=e.querySelector(".schematic-tip"),c=e.querySelectorAll(".schematic-node[data-tip]"),a=e=>{c.forEach(t=>t.classList.toggle("active",t===e)),t.textContent=e.dataset.tip};c.forEach(e=>{["mouseenter","focus","click"].forEach(t=>e.addEventListener(t,()=>a(e)))})});
