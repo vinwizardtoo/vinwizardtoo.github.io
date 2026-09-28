@@ -1,0 +1,7 @@
+<ul class="project-tags">
+  <li class="project-org">{{ include.project.org }}</li>
+  <li>{{ include.project.year }}</li>
+  {%- for tag in include.project.tags %}
+  <li>{{ tag }}</li>
+  {%- endfor %}
+</ul>

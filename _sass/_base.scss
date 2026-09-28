@@ -34,6 +34,11 @@ table {
   }
 }
 
+// Bootstrap's .table hardcodes a dark text colour; follow the theme instead.
+.table {
+  color: var(--global-text-color);
+}
+
 a,
 table.table a {
   color: var(--global-theme-color);

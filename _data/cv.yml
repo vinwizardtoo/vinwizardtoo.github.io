@@ -13,7 +13,7 @@
   contents:
     - title: Masters of Science in Artificial Intelligence and Innovation (MSAII)
       institution: Carnegie Mellon University, Pittsburgh, PA, US.
-      year: 2022
+      year: 2022 - 2024
       description:
         - title: <b>Courses Taken</b>
           contents:
@@ -23,8 +23,8 @@
             - <a href = 'https://mlip-cmu.github.io/s2023/'>Machine Learning in Production (11-695)</a>
           #add subdescriptions for each course if required
     - title: Bachelors of Engineering in Information Technology (BE-IT)
-      institution: Pune Institute of Computer Technology (aff. with Univ. of Pune), Pune, MH, India. 
-      year: 2018
+      institution: Pune Institute of Computer Technology (aff. with Univ. of Pune), Pune, MH, India.
+      year: 2018 - 2022
       description:
         - title: <b>Courses Taken</b>
           contents:
@@ -37,6 +37,33 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Senior Machine Learning Engineer
+      institution: Con Edison
+      year: 2026 - Now
+
+    - title: Senior ML Engineer
+      institution: Apple Marcom (via Fractal)
+      year: 2025 - 2026
+      description:
+        - Built a multi-agent analyst assistant on LangGraph that routes analysts' questions to the right analytical tools.
+        - Built a memory layer over Snowflake records and Keynote decks, with OpenSearch lookups across structured and unstructured indexes.
+        - Developed a Snowflake MCP server for analysts under Apple's auth controls.
+
+    - title: Data Scientist
+      institution: C3 AI
+      year: 2025
+      description:
+        - Built an advanced retrieval tool, a hybrid RAG pipeline in PostgreSQL with PGVector and a configurable cross-encoder or LLM reranker.
+        - Built a root-cause analysis tool for RAG failures to cut manual debugging.
+        - Built a markdown-to-slides tool.
+
+    - title: Associate Consultant - GenAI Engineer
+      institution: Capgemini
+      year: 2024
+      description:
+        - Built contract metadata extraction on AWS using AWS Textract and Claude 3.5.
+        - Stored and served the extracted metadata with AWS Lambda and DynamoDB behind a ReactJS web app.
+
     - title: Machine Learning Engineer Intern
       institution: Transatlantic Reinsurance Pvt. Ltd.
       year: 2023
@@ -57,9 +84,9 @@
         - Successfully deployed the chatbot on Google App Engine with comprehensive technical documentation for easy access and maintenance.
 
     - title: Machine Learning Engineer (Part-Time)
-      institution: Carlisle Architectural Materials, Pittsburgh, PA, US. 
+      institution: Carlisle Architectural Materials, Pittsburgh, PA, US.
       year: 2023
-      description: 
+      description:
       - Developed a unique solution for mass customization and inventory management for a large scale construction company; a project initiative by the Corporate Startup Lab powered by the Swartz Center for Entrepreneurship.
       - Generated insights that may save up to $60 million dollars annually on redundant logistics and outsourcing.
       - Provided real time data insights through visualization tools such as Tableau.
@@ -87,18 +114,18 @@
 #   type: time_table
 #   contents:
 #     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
+#       items:
+#         - Nobel Prize in Physics
 #         - Matteucci Medal
 #     - year: 2029
-#       items: 
+#       items:
 #         - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Grounding for Multimodal LLMs
-      items: 
+      items:
         - Deals with aligning different modalities for augmenting agents to real world data.
         - Similar Technologies --> <a href= "https://github.com/Vision-CAIR/MiniGPT-4">MiniGPT-4</a>
     - title: Retrieval Augmented Generation
@@ -111,4 +138,4 @@
   contents:
     - <u>Hobbies:</u> Swimming, Playing Soccer
     - <u>Instruments being learned:</u> Drums
-  
+

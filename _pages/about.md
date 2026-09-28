@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
@@ -16,12 +16,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I'm Vinay, a senior ML Engineer at Apple (via Fractal). I graduated from <a href='cmu.edu'>Carnegie Mellon University</a>, with a <a href='https://msaii.cs.cmu.edu/'>Masters in Artificial Intelligence and Innovation</a> and having had diverse experiences focusing on <b>Large Language Models</b>, <b>Retrieval Augmented Generation (RAG)</b>, <b>Multimodal Grounding</b>, <b>Multihop Multimodal Question Answering</b> and many others; I aim to solve complex real world problems through pioneering advances in AI and its related technologies.
+Hello! I'm Vinay, a Senior Machine Learning Engineer at <b>Con Edison</b>.
 
-My main experience up until this point has revolved around large scale Knowledge Representation and its downstream tasks such as RAG, Structured Document Generation and most specially large scale multi-agentic frameworks. My specialty has revolved around engineering multi-agentic frameworks at scale to automate tasks that often seem monotonous and rule based but are suprisingly pain points in the industry today.
+I got into building LLM systems during my <a href='https://msaii.cs.cmu.edu/'>Master's in Artificial Intelligence and Innovation</a> at <a href='https://www.cmu.edu'>Carnegie Mellon University</a>, where I worked on retrieval, multimodal question answering and conversational agents. My capstone with Bank of New York Mellon used a multi-agent framework and a knowledge-graph-backed RAG system to streamline a financial analyst's day-to-day work.
 
-During my educational pursuits at CMU, I honed skills in sophisticated Neural Network Architectures, Alignment for Multimodal LLMs, Computer Vision, and Natural Language Processing. My captsone project, with Bank of New York Mellon, involved optimizing the day to day of a financial analyst using a multi-agentic framework. 
+Since then I've been building agent and retrieval systems in industry:
 
-I thrive in innovative and collaborative environments; enriching the team's experience through my innovative and out of the box thinking idealogy. I continuously read up on new technologies that are backed up by credible publications to constantly augment myself.
+- <b>Apple Marcom (via Fractal)</b>, Senior ML Engineer: a multi-agent analyst assistant.
+- <b>C3 AI</b>, Data Scientist: an advanced retrieval tool, a root-cause analysis tool for RAG failures, and a markdown-to-slides tool.
+- <b>Capgemini</b>, Associate Consultant - GenAI Engineer: contract metadata extraction on AWS.
 
-Thank you so much for visiting my website. Please connect with me through any of my social media handles at the bottom of this page!
+I'm most interested in agents that take over repetitive, rule-based work that still eats up people's time.
+
+Thanks for visiting. You can reach me through any of the links at the bottom of this page.

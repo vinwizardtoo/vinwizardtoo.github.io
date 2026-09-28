@@ -5,7 +5,7 @@ title: Resume
 nav: true
 nav_order: 2
 cv_pdf: VinayResumeOct.pdf
-description: Here's an academic overview of myself! Feel free to check out my resume up here as well! 
+description: My education and experience. The PDF icon above opens the full resume.
 toc:
   sidebar: left
 ---

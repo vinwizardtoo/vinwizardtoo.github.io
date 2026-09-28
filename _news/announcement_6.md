@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🤖 Worked as an RA under <a href = "yuchengliang.com">Prof. Yucheng Liang</a>, focusing on RAG
+🤖 Worked as an RA under <a href = "https://yuchengliang.com">Prof. Yucheng Liang</a>, focusing on RAG
